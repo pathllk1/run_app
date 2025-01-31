@@ -1,0 +1,9 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+"scripts": {
+    "start": "node 15-01-2025/server/main.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
